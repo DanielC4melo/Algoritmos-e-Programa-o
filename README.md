@@ -1,2 +1,2 @@
-Algoritmos da aula de AeP
+Algoritmos da aula de AeP.
 BSI - UNIRIO
